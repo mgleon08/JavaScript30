@@ -1,0 +1,69 @@
+html {
+  background:#018DED url(http://unsplash.it/1500/1000?image=881&blur=50);
+  background-size:cover;
+  /* font-family:'helvetica neue'; */
+  /* text-align: center; */
+  font-size: 10px;
+}
+
+body {
+  font-size: 2rem;
+  display:flex;
+  /* flex:1; */
+  min-height: 100vh;
+  align-items: center;
+}
+
+.clock {
+  border: 2rem solid white;
+  border-radius: 50%;
+  width: 30rem;
+  height: 30rem;
+  margin:50px auto;
+  padding:2rem;
+  /* position: relative; */
+  box-shadow:
+  0 0 0 4px rgba(0,0,0,0.1),
+  0 0 10px rgba(0,0,0,0.2),
+  inset 0 0 0 3px #EFEFEF,
+  inset 0 0 10px black;
+}
+
+.clock-face {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform: translateY(-3px); /* account for the height of the clock hands */
+  /* 將指針轉到 12 點方向，因此底座同步轉 90deg */
+  transform: rotate(90deg);
+}
+
+.hand {
+  height: 6px;
+  position: absolute;
+  top: 50%;
+  /* transform 定位點在線條最右邊 */
+  transform-origin: 100%;
+  /* 將指針轉到 12 點方向 */
+  transform: rotate(90deg);
+  transition: all 0.05s;
+  transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+  border-radius: 50%;
+}
+
+.hour-hand {
+  width: 20%;
+  /* 向右推 30%，對準中間點 */
+  margin-left: 30%;
+  background: rgb(255, 251, 0);
+}
+.min-hand {
+  width: 35%;
+  margin-left: 15%;
+  background: black;
+
+}
+.sec-hand {
+  width: 50%;
+  background: rgb(255, 196, 0);
+}
