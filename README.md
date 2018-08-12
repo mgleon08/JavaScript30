@@ -25,3 +25,4 @@
 | 012 | Key Sequence Detection (KONAMI CODE) | [Demo](https://mgleon08.github.io/JavaScript30/012.Key-Sequence-Detection(KONAMI-CODE)/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/012.Key-Sequence-Detection(KONAMI-CODE)) |
 | 013 | Slide In on Scroll | [Demo](https://mgleon08.github.io/JavaScript30/013.Slide-In-on-Scroll/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/013.Slide-In-on-Scroll) |
 | 014 | Object and Arrays - Reference VS Copy | [Demo](https://mgleon08.github.io/JavaScript30/014.Object-and-Arrays-Reference-VS-Copy/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/014.Object-and-Arrays-Reference-VS-Copy) |
+| 015 | LocalStorage and Event Delegation | [Demo](https://mgleon08.github.io/JavaScript30/015.LocalStorage-and-Event-Delegation/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/015.LocalStorage-and-Event-Delegation) |
