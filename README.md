@@ -30,3 +30,4 @@
 | 017 | Sorting Band Names without articles | [Demo](https://mgleon08.github.io/JavaScript30/017.Sorting-Band-Names-without-articles/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/017.Sorting-Band-Names-without-articles) |
 | 018 | Tally String Times with Reduce | [Demo](https://mgleon08.github.io/JavaScript30/018.Tally-String-Times-with-Reduce/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/018.Tally-String-Times-with-Reduce) |
 | 019 | Unreal Webcam Fun | [Demo](https://mgleon08.github.io/JavaScript30/019.Unreal-Webcam-Fun/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/019.Unreal-Webcam-Fun) |
+| 020 | Native Speech Recognition | [Demo](https://mgleon08.github.io/JavaScript30/020.Native-Speech-Recognition/) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/020.Native-Speech-Recognition) |
