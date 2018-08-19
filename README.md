@@ -32,3 +32,4 @@
 | 019 | Unreal Webcam Fun | [Demo](https://mgleon08.github.io/JavaScript30/019.Unreal-Webcam-Fun/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/019.Unreal-Webcam-Fun) |
 | 020 | Native Speech Recognition | [Demo](https://mgleon08.github.io/JavaScript30/020.Native-Speech-Recognition/) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/020.Native-Speech-Recognition) |
 | 021 | Geolocation based Speedometer and Compass | [Demo](https://mgleon08.github.io/JavaScript30/021.Geolocation-based-Speedometer-and-Compass/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/021.Geolocation-based-Speedometer-and-Compass) |
+| 022 | Follow Along Links | [Demo](https://mgleon08.github.io/JavaScript30/022.Follow-Along-Links/) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/022.Follow-Along-Links) |
