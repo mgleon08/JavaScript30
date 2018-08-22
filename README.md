@@ -35,3 +35,4 @@
 | 022 | Follow Along Links | [Demo](https://mgleon08.github.io/JavaScript30/022.Follow-Along-Links/) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/022.Follow-Along-Links) |
 | 023 | Speech Synthesis | [Demo](https://mgleon08.github.io/JavaScript30/023.Speech-Synthesis/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/023.Speech-Synthesis) |
 | 024 | Sticky Nav | [Demo](https://mgleon08.github.io/JavaScript30/024.Sticky-Nav/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/024.Sticky-Nav) |
+| 025 | Event Capture, Propagation, Bubbling and Once | [Demo](https://mgleon08.github.io/JavaScript30/025.Event-Capture-Propagation-Bubbling-and-Once/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/025.Event-Capture-Propagation-Bubbling-and-Once) |
