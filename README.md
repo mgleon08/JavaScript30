@@ -38,3 +38,4 @@
 | 025 | Event Capture, Propagation, Bubbling and Once | [Demo](https://mgleon08.github.io/JavaScript30/025.Event-Capture-Propagation-Bubbling-and-Once/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/025.Event-Capture-Propagation-Bubbling-and-Once) |
 | 026 | Stripe Follow Along Dropdown | [Demo](https://mgleon08.github.io/JavaScript30/026.Stripe-Follow-Along-Dropdown/) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/026.Stripe-Follow-Along-Dropdown) |
 | 027 | Click and Drag to Scroll | [Demo](https://mgleon08.github.io/JavaScript30/027.Click-and-Drag-to-Scroll/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/027.Click-and-Drag-to-Scroll) |
+| 028 | Video Speed Controller UI | [Demo](https://mgleon08.github.io/JavaScript30/028.Video-Speed-Controller-UI/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/028.Video-Speed-Controller-UI) |
