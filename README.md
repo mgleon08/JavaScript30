@@ -40,3 +40,4 @@
 | 027 | Click and Drag to Scroll | [Demo](https://mgleon08.github.io/JavaScript30/027.Click-and-Drag-to-Scroll/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/027.Click-and-Drag-to-Scroll) |
 | 028 | Video Speed Controller UI | [Demo](https://mgleon08.github.io/JavaScript30/028.Video-Speed-Controller-UI/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/028.Video-Speed-Controller-UI) |
 | 029 | Countdown Clock | [Demo](https://mgleon08.github.io/JavaScript30/029.Countdown-Clock/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/029.Countdown-Clock) |
+| 030 | Whack A Mole Game | [Demo](https://mgleon08.github.io/JavaScript30/030.Whack-A-Mole-Game/index.html) | [Github](https://github.com/mgleon08/JavaScript30/tree/master/030.Whack-A-Mole-Game) |
